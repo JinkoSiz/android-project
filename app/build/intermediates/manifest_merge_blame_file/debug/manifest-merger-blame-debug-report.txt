@@ -1,0 +1,286 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.PunicGames.flappyphone"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:5:22-63
+12
+13    <application
+13-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:7:5-108:19
+14        android:allowBackup="true"
+14-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\205feb206244c8c1b4b56fcdc8d69988\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:9:9-65
+17        android:debuggable="true"
+18        android:fullBackupContent="@xml/backup_rules"
+18-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:10:9-54
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:11:9-43
+20        android:label="Marble Stars"
+20-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:12:9-37
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:14:9-35
+23        android:theme="@style/Theme.AppCompat.NoActionBar" >
+23-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:15:9-59
+24        <activity
+24-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:17:9-23:20
+25            android:name="com.PunicGames.flappyphone.Level_Activity"
+25-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:18:13-43
+26            android:exported="false" >
+26-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:19:13-37
+27            <meta-data
+27-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:20:13-22:36
+28                android:name="android.app.lib_name"
+28-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:21:17-52
+29                android:value="" />
+29-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:22:17-33
+30        </activity>
+31        <activity
+31-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:25:9-33:20
+32            android:name="com.PunicGames.flappyphone.Level_4_Activity"
+32-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:26:13-45
+33            android:configChanges="orientation"
+33-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:27:13-48
+34            android:exported="false"
+34-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:28:13-37
+35            android:screenOrientation="portrait" >
+35-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:29:13-49
+36            <meta-data
+36-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:20:13-22:36
+37                android:name="android.app.lib_name"
+37-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:21:17-52
+38                android:value="" />
+38-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:22:17-33
+39        </activity>
+40        <activity
+40-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:34:9-42:20
+41            android:name="com.PunicGames.flappyphone.Level_1_Activity"
+41-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:35:13-45
+42            android:configChanges="orientation"
+42-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:36:13-48
+43            android:exported="false"
+43-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:37:13-37
+44            android:screenOrientation="portrait" >
+44-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:38:13-49
+45            <meta-data
+45-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:20:13-22:36
+46                android:name="android.app.lib_name"
+46-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:21:17-52
+47                android:value="" />
+47-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:22:17-33
+48        </activity>
+49        <activity
+49-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:43:9-51:20
+50            android:name="com.PunicGames.flappyphone.Level_3_Activity"
+50-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:44:13-45
+51            android:configChanges="orientation"
+51-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:45:13-48
+52            android:exported="false"
+52-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:46:13-37
+53            android:screenOrientation="portrait" >
+53-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:47:13-49
+54            <meta-data
+54-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:20:13-22:36
+55                android:name="android.app.lib_name"
+55-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:21:17-52
+56                android:value="" />
+56-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:22:17-33
+57        </activity>
+58        <activity
+58-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:53:9-62:20
+59            android:name="com.PunicGames.flappyphone.ComposeLevelSelectionActivity"
+59-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:54:13-58
+60            android:exported="false"
+60-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:55:13-37
+61            android:label="ComposeLevelSelectionActivity"
+61-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:56:13-58
+62            android:screenOrientation="portrait"
+62-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:58:13-49
+63            android:theme="@style/Theme.FlappyPhone" >
+63-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:57:13-53
+64            <meta-data
+64-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:20:13-22:36
+65                android:name="android.app.lib_name"
+65-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:21:17-52
+66                android:value="" />
+66-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:22:17-33
+67        </activity>
+68        <activity
+68-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:63:9-72:20
+69            android:name="com.PunicGames.flappyphone.ComposeTutorialActivity"
+69-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:64:13-52
+70            android:exported="false"
+70-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:65:13-37
+71            android:label="ComposeTutorialActivity"
+71-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:66:13-52
+72            android:screenOrientation="portrait"
+72-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:68:13-49
+73            android:theme="@style/Theme.FlappyPhone" >
+73-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:67:13-53
+74            <meta-data
+74-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:20:13-22:36
+75                android:name="android.app.lib_name"
+75-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:21:17-52
+76                android:value="" />
+76-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:22:17-33
+77        </activity>
+78        <activity
+78-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:73:9-82:20
+79            android:name="com.PunicGames.flappyphone.ComposeResumeLevelActivity"
+79-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:74:13-55
+80            android:exported="false"
+80-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:75:13-37
+81            android:label="ComposeResumeLevelActivity"
+81-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:76:13-55
+82            android:screenOrientation="portrait"
+82-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:78:13-49
+83            android:theme="@style/Theme.FlappyPhone" >
+83-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:77:13-53
+84            <meta-data
+84-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:20:13-22:36
+85                android:name="android.app.lib_name"
+85-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:21:17-52
+86                android:value="" />
+86-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:22:17-33
+87        </activity>
+88        <activity
+88-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:83:9-91:20
+89            android:name="com.PunicGames.flappyphone.Level_2_Activity"
+89-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:84:13-45
+90            android:configChanges="orientation"
+90-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:85:13-48
+91            android:exported="false"
+91-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:86:13-37
+92            android:screenOrientation="portrait" >
+92-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:87:13-49
+93            <meta-data
+93-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:20:13-22:36
+94                android:name="android.app.lib_name"
+94-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:21:17-52
+95                android:value="" />
+95-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:22:17-33
+96        </activity>
+97        <activity
+97-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:93:9-107:20
+98            android:name="com.PunicGames.flappyphone.ComposeMainMenu"
+98-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:94:13-44
+99            android:configChanges="orientation"
+99-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:95:13-48
+100            android:exported="true"
+100-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:96:13-36
+101            android:screenOrientation="portrait" >
+101-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:97:13-49
+102            <intent-filter>
+102-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:98:13-102:29
+103                <action android:name="android.intent.action.MAIN" />
+103-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:99:17-69
+103-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:99:25-66
+104
+105                <category android:name="android.intent.category.LAUNCHER" />
+105-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:101:17-77
+105-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:101:27-74
+106            </intent-filter>
+107
+108            <meta-data
+108-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:20:13-22:36
+109                android:name="android.app.lib_name"
+109-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:21:17-52
+110                android:value="" />
+110-->C:\Users\JinkoSiz\Downloads\Marble-Stars-main\app\src\main\AndroidManifest.xml:22:17-33
+111        </activity>
+112
+113        <uses-library
+113-->[androidx.window:window:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+114            android:name="androidx.window.extensions"
+114-->[androidx.window:window:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+115            android:required="false" />
+115-->[androidx.window:window:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+116        <uses-library
+116-->[androidx.window:window:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+117            android:name="androidx.window.sidecar"
+117-->[androidx.window:window:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+118            android:required="false" />
+118-->[androidx.window:window:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+119
+120        <activity
+120-->[androidx.compose.ui:ui-tooling:1.1.1] C:\Users\JinkoSiz\.gradle\caches\transforms-3\c15db42aa67c5f072448e21802123b94\transformed\ui-tooling-1.1.1\AndroidManifest.xml:25:9-27:39
+121            android:name="androidx.compose.ui.tooling.PreviewActivity"
+121-->[androidx.compose.ui:ui-tooling:1.1.1] C:\Users\JinkoSiz\.gradle\caches\transforms-3\c15db42aa67c5f072448e21802123b94\transformed\ui-tooling-1.1.1\AndroidManifest.xml:26:13-71
+122            android:exported="true" />
+122-->[androidx.compose.ui:ui-tooling:1.1.1] C:\Users\JinkoSiz\.gradle\caches\transforms-3\c15db42aa67c5f072448e21802123b94\transformed\ui-tooling-1.1.1\AndroidManifest.xml:27:13-36
+123        <activity
+123-->[androidx.compose.ui:ui-test-manifest:1.1.1] C:\Users\JinkoSiz\.gradle\caches\transforms-3\224e559d522afb881ec23f8f8a360533\transformed\ui-test-manifest-1.1.1\AndroidManifest.xml:25:9-27:39
+124            android:name="androidx.activity.ComponentActivity"
+124-->[androidx.compose.ui:ui-test-manifest:1.1.1] C:\Users\JinkoSiz\.gradle\caches\transforms-3\224e559d522afb881ec23f8f8a360533\transformed\ui-test-manifest-1.1.1\AndroidManifest.xml:26:13-63
+125            android:exported="true" />
+125-->[androidx.compose.ui:ui-test-manifest:1.1.1] C:\Users\JinkoSiz\.gradle\caches\transforms-3\224e559d522afb881ec23f8f8a360533\transformed\ui-test-manifest-1.1.1\AndroidManifest.xml:27:13-36
+126
+127        <provider
+127-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+128            android:name="androidx.startup.InitializationProvider"
+128-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+129            android:authorities="com.PunicGames.flappyphone.androidx-startup"
+129-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+130            android:exported="false" >
+130-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+131            <meta-data
+131-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+132                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+132-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+133                android:value="androidx.startup" />
+133-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+134            <meta-data
+134-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+135                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+135-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+136                android:value="androidx.startup" />
+136-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+137            <meta-data
+137-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:30:13-32:52
+138                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+138-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:31:17-85
+139                android:value="androidx.startup" />
+139-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:32:17-49
+140        </provider>
+141
+142        <receiver
+142-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:35:9-47:20
+143            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+143-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:36:13-76
+144            android:directBootAware="false"
+144-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:37:13-44
+145            android:enabled="true"
+145-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:38:13-35
+146            android:exported="true"
+146-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:39:13-36
+147            android:permission="android.permission.DUMP" >
+147-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:40:13-57
+148            <intent-filter>
+148-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:41:13-43:29
+149                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+149-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:17-91
+149-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:25-88
+150            </intent-filter>
+151            <intent-filter>
+151-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:44:13-46:29
+152                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+152-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:17-85
+152-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\JinkoSiz\.gradle\caches\transforms-3\29296c99ccc981f425f4bedabc39524a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:25-82
+153            </intent-filter>
+154        </receiver>
+155    </application>
+156
+157</manifest>

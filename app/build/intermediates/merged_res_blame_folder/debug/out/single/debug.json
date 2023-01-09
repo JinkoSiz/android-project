@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_btn.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/btn.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/raw_button.wav.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/raw/button.wav"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_custom_buttom.xml.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/custom_buttom.xml"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable-v24_select_level.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable-v24/select_level.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/raw_background.wav.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/raw/background.wav"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable-v24_ball.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable-v24/ball.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_woodwall.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/woodwall.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/raw_rolling.wav.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/raw/rolling.wav"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_goal.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/goal.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable-v24_level_resume.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable-v24/level_resume.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/raw_main_song.wav.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/raw/main_song.wav"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/raw_selector_song.wav.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/raw/selector_song.wav"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/xml_backup_rules.xml.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_btn_xml.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/btn_xml.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/raw_hit.wav.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/raw/hit.wav"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_menu_logo.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/menu_logo.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable-v24_time.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable-v24/time.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_ic_baseline_menu_open_24.xml.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/ic_baseline_menu_open_24.xml"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_hole.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/hole.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/raw_goal.wav.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/raw/goal.wav"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/layout_game_view_layout.xml.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/layout/game_view_layout.xml"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_btn2.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/btn2.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_background.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/background.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_estrella.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/estrella.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/raw_sample.wav.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/raw/sample.wav"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/raw_resume_song.wav.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/raw/resume_song.wav"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/raw_hole.wav.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/raw/hole.wav"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/font_marblefont.ttf.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/font/marblefont.ttf"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.PunicGames.flappyphone.app-merged_res-58:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.PunicGames.flappyphone.app-main-60:/mipmap-mdpi/ic_launcher_background.png"
+    }
+]
